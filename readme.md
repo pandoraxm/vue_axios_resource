@@ -2,7 +2,7 @@
 
 ## 使用方法
 ```
-git clone 到本地
+git clone https://github.com/pandoraxm/vue_axios_resource.git
 ```
 
 ```
