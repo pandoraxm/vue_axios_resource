@@ -27,3 +27,8 @@ php curl部分请看`curl.php`
 ## 如果要运行curl代理的话，请将curl.php放到你Apache或者Nginx服务器根目录，并且保证你的Apache或者Nginx服务器是运行状态
 
 ## 详细说明，请看readme.html
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/pandoraxm/vue_axios_resource.svg)](https://starchart.cc/pandoraxm/vue_axios_resource)
